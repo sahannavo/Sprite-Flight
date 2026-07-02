@@ -8,9 +8,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![BotFriend Preview](assets/Game Envirament.png)
-![BotFriend Preview](assets/Game UI.png)
-![BotFriend Preview](assets/thumbnail.png)
+![BotFriend Preview](image/thumbnail.png)
+![BotFriend Preview](image/Game UI.png)
+![BotFriend Preview](image/Game Envirament.png)
 
 </div>
 
